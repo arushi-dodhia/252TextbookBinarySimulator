@@ -318,7 +318,7 @@ const styles = {
   },
   convertButton: {
     padding: '10px 20px',
-    backgroundColor: '#4CAF50',
+    backgroundColor: '#e5e5e5',
     color: 'white',
     border: 'none',
     borderRadius: '4px',
@@ -346,7 +346,7 @@ const styles = {
     padding: '15px',
     backgroundColor: '#e8e8e8',
     borderRadius: '4px',
-  },
+   },
   resultLabel: {
     fontWeight: 'bold',
     marginRight: '10px',
