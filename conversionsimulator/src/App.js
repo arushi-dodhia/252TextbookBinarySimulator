@@ -1,7 +1,7 @@
 import React from 'react';
 import { Routes, Route, Navigate } from 'react-router-dom';
 import Converter from './Converter';
-import ConversionScreen from './ConversionScreen';
+import ConversionScreen from './ConversionScreen.jsx';
 
 
 export default function App() {
